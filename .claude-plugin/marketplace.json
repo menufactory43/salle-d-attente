@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "salle-d-attente",
+  "owner": {
+    "name": "menufactory43"
+  },
+  "metadata": {
+    "description": "Une partie en ligne pendant que Claude travaille."
+  },
+  "plugins": [
+    {
+      "name": "salle-d-attente",
+      "source": "./plugins/salle-d-attente",
+      "description": "Pendant que Claude travaille, une partie multijoueur de Modern Claudefare dans un panneau de Claude Code (Ghostty ou kitty, macOS).",
+      "category": "fun"
+    }
+  ]
+}

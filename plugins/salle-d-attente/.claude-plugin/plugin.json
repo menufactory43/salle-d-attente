@@ -1,0 +1,10 @@
+{
+  "name": "salle-d-attente",
+  "version": "0.1.0",
+  "description": "Pendant que Claude travaille, une partie multijoueur de Modern Claudefare dans un panneau de Claude Code",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "menufactory43"
+  },
+  "homepage": "https://github.com/menufactory43/salle-d-attente"
+}
