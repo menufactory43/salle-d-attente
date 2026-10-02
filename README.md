@@ -52,3 +52,7 @@ Limites connues :
 - Plus le panneau est grand, moins il y a d'images par seconde (la page est plafonnée à 820 px de large).
 
 En cas de problème, le journal est dans `~/Library/Caches/salle-d-attente/bridge.log`.
+
+## Licence
+
+Le code de ce mod est sous licence MIT (voir `LICENSE`). Le jeu, lui, appartient à son auteur.
